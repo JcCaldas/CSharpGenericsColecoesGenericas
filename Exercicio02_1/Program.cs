@@ -87,7 +87,7 @@ foreach (var aluno in alunosOrdenadosLINQ)
 
 //Remover os elementos do dicionário
 alunos.Clear();
-Console.WriteLine(alunos.GetType());
+Console.WriteLine(alunos.);
 
 ExibeDicionario(alunos);
 
