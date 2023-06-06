@@ -21,6 +21,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio02_1", "Exercicio0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04SortedDictionary", "04SortedDictionary\04SortedDictionary.csproj", "{8EC17162-AA5A-45B2-A49A-A54E5E6A1CA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05HashSet", "05HashSet\05HashSet.csproj", "{4020D486-D483-4074-9F0F-A256E4B77A80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_1HashSet", "05_1HashSet\05_1HashSet.csproj", "{F5921FE4-71D4-481A-9E6D-FFF81203AA02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +63,14 @@ Global
 		{8EC17162-AA5A-45B2-A49A-A54E5E6A1CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EC17162-AA5A-45B2-A49A-A54E5E6A1CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EC17162-AA5A-45B2-A49A-A54E5E6A1CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4020D486-D483-4074-9F0F-A256E4B77A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4020D486-D483-4074-9F0F-A256E4B77A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4020D486-D483-4074-9F0F-A256E4B77A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4020D486-D483-4074-9F0F-A256E4B77A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5921FE4-71D4-481A-9E6D-FFF81203AA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5921FE4-71D4-481A-9E6D-FFF81203AA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5921FE4-71D4-481A-9E6D-FFF81203AA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5921FE4-71D4-481A-9E6D-FFF81203AA02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
